@@ -1,1 +1,1 @@
-"# Krushisakha"  "# AppleDiseaseRecognition" 
+"# AppleDiseaseRecognition" 
